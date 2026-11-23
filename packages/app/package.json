@@ -1,0 +1,11 @@
+{
+  "name": "void-repro-app",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "vp build"
+  },
+  "devDependencies": {
+    "void": "catalog:"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "name": "void-workspace-vite-plus-deploy-repro",
+  "private": true,
+  "packageManager": "pnpm@12.21.0",
+  "devDependencies": {
+    "vite": "catalog:",
+    "vite-plus": "catalog:"
+  }
+}
